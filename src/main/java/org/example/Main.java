@@ -11,6 +11,8 @@ public class Main {
 
         System.out.printf("New string");
 
+        System.out.println("New string in Branch_01");
+
         System.out.println("New string in Master");
 
         for (int i = 1; i <= 5; i++) {
